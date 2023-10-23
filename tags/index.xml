@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on ティアいなだ</title>
+        <link>https://tia-chan.top/tags/</link>
+        <description>Recent content in Tags on ティアいなだ</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>ティアいなだ</copyright>
+        <lastBuildDate>Sun, 22 Oct 2023 12:54:54 +0800</lastBuildDate><atom:link href="https://tia-chan.top/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Huginn</title>
+        <link>https://tia-chan.top/tags/huginn/</link>
+        <pubDate>Sun, 22 Oct 2023 12:54:54 +0800</pubDate>
+        
+        <guid>https://tia-chan.top/tags/huginn/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>RSS</title>
+        <link>https://tia-chan.top/tags/rss/</link>
+        <pubDate>Sun, 22 Oct 2023 12:54:54 +0800</pubDate>
+        
+        <guid>https://tia-chan.top/tags/rss/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Telegram Bot</title>
+        <link>https://tia-chan.top/tags/telegram-bot/</link>
+        <pubDate>Sun, 22 Oct 2023 12:54:54 +0800</pubDate>
+        
+        <guid>https://tia-chan.top/tags/telegram-bot/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Nitter</title>
+        <link>https://tia-chan.top/tags/nitter/</link>
+        <pubDate>Sun, 22 Oct 2023 12:50:29 +0800</pubDate>
+        
+        <guid>https://tia-chan.top/tags/nitter/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Twitter</title>
+        <link>https://tia-chan.top/tags/twitter/</link>
+        <pubDate>Sun, 22 Oct 2023 12:50:29 +0800</pubDate>
+        
+        <guid>https://tia-chan.top/tags/twitter/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>pip</title>
+        <link>https://tia-chan.top/tags/pip/</link>
+        <pubDate>Sun, 22 Oct 2023 12:46:19 +0800</pubDate>
+        
+        <guid>https://tia-chan.top/tags/pip/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Python</title>
+        <link>https://tia-chan.top/tags/python/</link>
+        <pubDate>Sun, 22 Oct 2023 12:46:19 +0800</pubDate>
+        
+        <guid>https://tia-chan.top/tags/python/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
