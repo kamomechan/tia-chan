@@ -284,6 +284,7 @@
     <li><a href="#如何使用-rss-源">如何使用 RSS 源</a></li>
     <li><a href="#如何制作自己的-rss-源">如何制作自己的 RSS 源</a>
       <ol>
+<<<<<<< HEAD
         <li><a href="#下载安装篇">下载安装篇</a>
           <ol>
             <li><a href="#在linux中安装docker">在linux中安装docker</a></li>
@@ -306,16 +307,47 @@
             <li><a href="#提取文章内容">提取文章内容</a></li>
             <li><a href="#转成rss源">转成RSS源</a></li>
             <li><a href="#常见问题">常见问题</a></li>
+=======
+        <li><a href="#1-下载安装篇">1. 下载安装篇</a>
+          <ol>
+            <li><a href="#11-在linux中安装docker">1.1 在linux中安装docker</a></li>
+            <li><a href="#12-启动docker容器等待一分钟左右">1.2 启动docker容器（等待一分钟左右）</a></li>
+            <li><a href="#13-在浏览器中打开huginn">1.3 在浏览器中打开Huginn</a></li>
+            <li><a href="#14-设置账户">1.4 设置账户</a></li>
+          </ol>
+        </li>
+        <li><a href="#2-为huginn使用做准备">2. 为Huginn使用做准备</a>
+          <ol>
+            <li><a href="#21-准备phantomjscloudhttpsdashboardphantomjscloudcomapikey">2.1 准备 <a href="https://dashboard.phantomjscloud.com/">phantomjscloud</a> Apikey</a></li>
+            <li><a href="#22-在huginn中新建凭证credentials">2.2 在Huginn中新建凭证（Credentials）</a></li>
+          </ol>
+        </li>
+        <li><a href="#3-如何使用huginn">3. 如何使用Huginn</a>
+          <ol>
+            <li><a href="#31-概述">3.1 概述</a></li>
+            <li><a href="#32-将动态网页转成静态网页">3.2 将动态网页转成静态网页</a></li>
+            <li><a href="#33-提取文章标题与时间">3.3 提取文章标题与时间</a></li>
+            <li><a href="#34-提取文章内容">3.4 提取文章内容</a></li>
+            <li><a href="#35-转成rss源">3.5 转成RSS源</a></li>
+            <li><a href="#36-常见问题">3.6 常见问题</a></li>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
           </ol>
         </li>
       </ol>
     </li>
     <li><a href="#部署-telegram-rss-reader-bot">部署 Telegram RSS Reader Bot</a>
       <ol>
+<<<<<<< HEAD
         <li><a href="#部署">部署</a>
           <ol>
             <li><a href="#下载安装篇-1">下载安装篇</a></li>
             <li><a href="#准备与配置">准备与配置</a></li>
+=======
+        <li><a href="#1-部署">1. 部署</a>
+          <ol>
+            <li><a href="#11-下载安装篇">1.1 下载安装篇</a></li>
+            <li><a href="#12-准备与配置">1.2 准备与配置</a></li>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
           </ol>
         </li>
       </ol>
@@ -443,8 +475,13 @@
 <p><del>那人家也不理我怎么办qwq</del></p>
 <p>那就自己来做一个！利用<a class="link" href="https://github.com/huginn/huginn/"  target="_blank" rel="noopener"
     >huginn</a>制作RSS源</p>
+<<<<<<< HEAD
 <h3 id="下载安装篇">下载安装篇</h3>
 <h4 id="在linux中安装docker">在linux中安装docker</h4>
+=======
+<h3 id="1-下载安装篇">1. 下载安装篇</h3>
+<h4 id="11-在linux中安装docker">1.1 在linux中安装docker</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -453,7 +490,11 @@
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">curl -fsSL get.docker.com -o get-docker.shsudo sh get-docker.sh --mirror Aliyun
 </span></span></code></pre></td></tr></table>
 </div>
+<<<<<<< HEAD
 </div><h4 id="启动docker容器等待一分钟左右">启动docker容器（等待一分钟左右）</h4>
+=======
+</div><h4 id="12-启动docker容器等待一分钟左右">1.2 启动docker容器（等待一分钟左右）</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -463,27 +504,48 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>最后 <code>ctrl+a+d</code> 退出 screen</p>
+<<<<<<< HEAD
 <h4 id="在浏览器中打开huginn">在浏览器中打开Huginn</h4>
+=======
+<h4 id="13-在浏览器中打开huginn">1.3 在浏览器中打开Huginn</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <p><a class="link" href="http://localhost:3000/"  target="_blank" rel="noopener"
     >http://localhost:3000</a></p>
 <p>localhost替换为你自己的ip，然后打开（如图）</p>
 <img src="3.png" title="" alt="Huginn" width="471">
 <p>点击login，用户名与密码分别默认为admin与password</p>
+<<<<<<< HEAD
 <h4 id="设置账户">设置账户</h4>
 <p>为保证账户安全，点击account菜单，选择account修改账户密码</p>
 <img title="" src="4.png" alt="" width="696">
 <h3 id="为huginn使用做准备">为Huginn使用做准备</h3>
 <h4 id="准备phantomjscloudhttpsdashboardphantomjscloudcomapikey">准备 <a class="link" href="https://dashboard.phantomjscloud.com/"  target="_blank" rel="noopener"
+=======
+<h4 id="14-设置账户">1.4 设置账户</h4>
+<p>为保证账户安全，点击account菜单，选择account修改账户密码</p>
+<img title="" src="4.png" alt="" width="696">
+<h3 id="2-为huginn使用做准备">2. 为Huginn使用做准备</h3>
+<h4 id="21-准备phantomjscloudhttpsdashboardphantomjscloudcomapikey">2.1 准备 <a class="link" href="https://dashboard.phantomjscloud.com/"  target="_blank" rel="noopener"
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
     >phantomjscloud</a> Apikey</h4>
 <p>需要注册一个<a class="link" href="https://dashboard.phantomjscloud.com/"  target="_blank" rel="noopener"
     >phantomjscloud</a>账户，用来渲染动态网页成静态页面，注册好后从中获取ApiKey</p>
 <img title="" src="5.png" alt="Phantomjscloud" width="694">
+<<<<<<< HEAD
 <h4 id="在huginn中新建凭证credentials">在Huginn中新建凭证（Credentials）</h4>
 <p>在Huginn中使用ApiKey</p>
 <img src="6.png" title="" alt="Huginn" width="700">
 <img title="" src="7.png" alt="Huginn" width="727">
 <h3 id="如何使用huginn">如何使用Huginn</h3>
 <h4 id="概述">概述</h4>
+=======
+<h4 id="22-在huginn中新建凭证credentials">2.2 在Huginn中新建凭证（Credentials）</h4>
+<p>在Huginn中使用ApiKey</p>
+<img src="6.png" title="" alt="Huginn" width="700">
+<img title="" src="7.png" alt="Huginn" width="727">
+<h3 id="3-如何使用huginn">3. 如何使用Huginn</h3>
+<h4 id="31-概述">3.1 概述</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <p>一共分为4步：</p>
 <ol>
 <li>利用PhantomJs agent将动态网页转成静态网页</li>
@@ -491,7 +553,11 @@
 <li>利用Website agent解析提取文章内容</li>
 <li>利用DataOutputAgent将解析的东西转成RSS源</li>
 </ol>
+<<<<<<< HEAD
 <h4 id="将动态网页转成静态网页">将动态网页转成静态网页</h4>
+=======
+<h4 id="32-将动态网页转成静态网页">3.2 将动态网页转成静态网页</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <p>这里以制作<a class="link" href="https://www.keyfc.net/bbs/showtopiclist.aspx?type=newtopic"  target="_blank" rel="noopener"
     >Keyfc论坛</a> RSS源为例</p>
 <p>点击新建代理（Agent）（没有说明的内容默认就行，不需要填写）</p>
@@ -509,7 +575,11 @@
 <pre tabindex="0" class="chroma"><code class="language-apache" data-lang="apache"><span class="line"><span class="cl"><span class="err">Mozilla/5</span>.<span class="err">0</span> <span class="err">(</span><span class="nb">Windows</span> NT <span class="m">10</span>.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 </span></span></code></pre></td></tr></table>
 </div>
+<<<<<<< HEAD
 </div><h4 id="提取文章标题与时间">提取文章标题与时间</h4>
+=======
+</div><h4 id="33-提取文章标题与时间">3.3 提取文章标题与时间</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <p>点击新建代理（Agent）（Website Agent类型）</p>
 <img title="" src="11.png" alt="" width="422">
 <hr>
@@ -592,7 +662,11 @@
 </div><p>点击两次Dry Run运行下看看</p>
 <img src="21.png" title="" alt="" width="366">
 <p>完成！</p>
+<<<<<<< HEAD
 <h4 id="提取文章内容">提取文章内容</h4>
+=======
+<h4 id="34-提取文章内容">3.4 提取文章内容</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <p>点击新建代理（Agent）（Website Agent类型）</p>
 <img title="" src="22.png" alt="" width="366">
 <img src="23.png" title="" alt="" width="460">
@@ -612,7 +686,11 @@
 <hr>
 <img title="" src="26.png" alt="" width="684">
 <p>完成！</p>
+<<<<<<< HEAD
 <h4 id="转成rss源">转成RSS源</h4>
+=======
+<h4 id="35-转成rss源">3.5 转成RSS源</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <img src="27.png" title="" alt="" width="388">
 <hr>
 <img title="" src="28.png" alt="" width="442">
@@ -621,7 +699,11 @@
 <p>点击actions菜单，选择show</p>
 <img src="30.png" title="" alt="" width="502">
 <p>这个后缀为.xml的链接就是你做的RSS源啦（啪唧啪唧，鼓掌www）</p>
+<<<<<<< HEAD
 <h4 id="常见问题">常见问题</h4>
+=======
+<h4 id="36-常见问题">3.6 常见问题</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <p>如果遇到下面的working状态为no</p>
 <img src="31.png" title="" alt="" width="686">
 <p>记得点击抓取标题的那个代理的event created（即keyfc 1）</p>
@@ -632,8 +714,13 @@
 <p>项目地址：<a class="link" href="https://github.com/Rongronggg9/RSS-to-Telegram-Bot"  title="RSS-to-Telegram-Bot"
      target="_blank" rel="noopener"
     >Bot</a></p>
+<<<<<<< HEAD
 <h3 id="部署">部署</h3>
 <h4 id="下载安装篇-1">下载安装篇</h4>
+=======
+<h3 id="1-部署">1. 部署</h3>
+<h4 id="11-下载安装篇">1.1 下载安装篇</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -642,7 +729,11 @@
 <pre tabindex="0" class="chroma"><code class="language-awk" data-lang="awk"><span class="line"><span class="cl"><span class="nx">mkdir</span> <span class="nx">rssttcd</span> <span class="nx">rssttwget</span> <span class="nx">https</span><span class="err">:</span><span class="o">/</span><span class="err">/raw.githubusercontent.com/Rongronggg9/RSS-to-Telegram-Bot/dev/docker-compose.yml.sample -O docker-compose.yml</span>
 </span></span></code></pre></td></tr></table>
 </div>
+<<<<<<< HEAD
 </div><h4 id="准备与配置">准备与配置</h4>
+=======
+</div><h4 id="12-准备与配置">1.2 准备与配置</h4>
+>>>>>>> d086567f61753a7d5dbf45852d454ba1c251b52c
 <p>转向 <a class="link" href="https://t.me/BotFather"  target="_blank" rel="noopener"
     >@BotFather</a> ，发送 <code>/newbot</code> 创建一个新的机器人，获取 <code>token</code></p>
 <p>转向 <a class="link" href="https://t.me/userinfobot"  target="_blank" rel="noopener"
