@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Subdomain on ティアいなだ</title>
+        <link>https://tia-chan.top/tags/subdomain/</link>
+        <description>Recent content in Subdomain on ティアいなだ</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>ティアいなだ</copyright>
+        <lastBuildDate>Thu, 20 Jun 2024 07:58:14 +0800</lastBuildDate><atom:link href="https://tia-chan.top/tags/subdomain/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>一些工具</title>
+        <link>https://tia-chan.top/p/%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Thu, 20 Jun 2024 07:58:14 +0800</pubDate>
+        
+        <guid>https://tia-chan.top/p/%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85%B7/</guid>
+        <description>&lt;img src="https://tia-chan.top/p/%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85%B7/cover.jpg" alt="Featured image of post 一些工具" /&gt;&lt;h2 id=&#34;年初&#34;&gt;年初&lt;/h2&gt;
+&lt;p&gt;根据 &lt;a class=&#34;link&#34; href=&#34;https://docs.rsshub.app/zh/joinus/new-rss/start-code&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;RSSHub&lt;/a&gt; &lt;del&gt;照葫芦画瓢&lt;/del&gt;写了一个关于VNDB的RSS源，已经稳定运行半年了，&lt;strong&gt;パチパチ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vndb.org/r?q=&amp;amp;o=d&amp;amp;s=released&amp;amp;f=06741122wzh_dHans-2wzh_dHant-Ng014owinjwsteam-N48N68022gja4gco&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官方中文&lt;/a&gt;: &lt;a class=&#34;link&#34; href=&#34;https://rss.tia-chan.top/vndb/offi-ch&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rss.tia-chan.top/vndb/offi-ch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vndb.org/r?q=&amp;amp;o=d&amp;amp;s=released&amp;amp;f=04741Ng114owin122wzh_dHans-2wzh_dHant-&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;民间汉化&lt;/a&gt;: &lt;a class=&#34;link&#34; href=&#34;https://rss.tia-chan.top/vndb/uo-ch&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rss.tia-chan.top/vndb/uo-ch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vndb.org/r?q=&amp;amp;o=d&amp;amp;s=released&amp;amp;f=067412genNg014owinjwsteam-N48N68022gja4gco&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Official TL&lt;/a&gt;: &lt;a class=&#34;link&#34; href=&#34;https://rss.tia-chan.top/vndb/offi-en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rss.tia-chan.top/vndb/offi-en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vndb.org/r?q=&amp;amp;o=d&amp;amp;s=released&amp;amp;f=04741Ng114owin2gen&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fan TL&lt;/a&gt;: &lt;a class=&#34;link&#34; href=&#34;https://rss.tia-chan.top/vndb/uo-en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rss.tia-chan.top/vndb/uo-en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果你想要全平台同步的话，欢迎加入频道w&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://t.me/VisualNovelNews&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Telegram: Contact @VisualNovelNews&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;去年&#34;&gt;去年&lt;/h2&gt;
+&lt;p&gt;在GitHub上看到一些关于 Telegram Bot 有趣的项目试着部署了下&lt;/p&gt;
+&lt;p&gt;感兴趣可以看看 OwO&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://t.me/VisualNovelClub/8/1459&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t.me/VisualNovelClub/8/1459&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;其他子域名&#34;&gt;其他子域名：&lt;/h2&gt;
+&lt;p&gt;批评空间反代（NSFW ALERT）: &lt;a class=&#34;link&#34; href=&#34;https://ero.tia-chan.top/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ero.tia-chan.top/&lt;/a&gt; (用户名和密码: nipa)&lt;/p&gt;
+&lt;p&gt;视觉小说中文补丁: &lt;a class=&#34;link&#34; href=&#34;https://drive.tia-chan.top/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://drive.tia-chan.top/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;这么长时间不更新，是不是以为我被大灰狼抓走了&lt;/del&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
