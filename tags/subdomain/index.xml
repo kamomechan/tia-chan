@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Subdomain on ティアいなだ</title>
+        <link>https://tia-chan.top/tags/subdomain/</link>
+        <description>Recent content in Subdomain on ティアいなだ</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>ティアいなだ</copyright>
+        <lastBuildDate>Thu, 20 Jun 2024 07:58:14 +0800</lastBuildDate><atom:link href="https://tia-chan.top/tags/subdomain/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于视觉小说的一些工具</title>
+        <link>https://tia-chan.top/p/%E5%85%B3%E4%BA%8E%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Thu, 20 Jun 2024 07:58:14 +0800</pubDate>
+        
+        <guid>https://tia-chan.top/p/%E5%85%B3%E4%BA%8E%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85%B7/</guid>
+        <description>&lt;img src="https://tia-chan.top/p/%E5%85%B3%E4%BA%8E%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85%B7/cover.jpg" alt="Featured image of post 关于视觉小说的一些工具" /&gt;&lt;h2 id=&#34;rss订阅源&#34;&gt;RSS订阅源&lt;/h2&gt;
+&lt;p&gt;由于视觉小说补丁的发布页可能在各种各样奇奇怪怪的地方，不太好找，后来知道了 &lt;a class=&#34;link&#34; href=&#34;https://vndb.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VNDB&lt;/a&gt;（视觉小说数据库），于是便根据 &lt;a class=&#34;link&#34; href=&#34;https://docs.rsshub.app/zh/joinus/new-rss/start-code&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;RSSHub&lt;/a&gt; &lt;del&gt;照葫芦画瓢&lt;/del&gt;写了一个关于VNDB的RSS源，已经稳定运行半年了，&lt;strong&gt;パチパチ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;官方中文/Official TL: &lt;a class=&#34;link&#34; href=&#34;https://rss.tia-chan.top/vndb/official&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rss.tia-chan.top/vndb/official&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;公式日本語: &lt;a class=&#34;link&#34; href=&#34;https://rss.tia-chan.top/vndb/offi-jp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rss.tia-chan.top/vndb/offi-jp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;民间汉化: &lt;a class=&#34;link&#34; href=&#34;https://rss.tia-chan.top/vndb/uo-ch&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rss.tia-chan.top/vndb/uo-ch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fan TL: &lt;a class=&#34;link&#34; href=&#34;https://rss.tia-chan.top/vndb/uo-en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rss.tia-chan.top/vndb/uo-en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;之后添加到rss阅读器就好啦，如果你想要全平台同步的话，欢迎加入频道的说w&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://t.me/VisualNovelNews&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Telegram: Contact @VisualNovelNews&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;telegram-bot&#34;&gt;Telegram bot&lt;/h2&gt;
+&lt;p&gt;之前在GitHub上看到一些关于 Telegram Bot 有趣的项目试着部署了下&lt;/p&gt;
+&lt;p&gt;感兴趣可以看看 OwO&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://t.me/VisualNovelClub/8/1459&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t.me/VisualNovelClub/8/1459&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;其他子域名&#34;&gt;其他子域名&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://erogamescape.dyndns.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ErogameScape&lt;/a&gt; 批评空间 的反代 (日本Galgame评分网站，NSFW Alert) ，可以解决ip被屏蔽，无法访问的问题&lt;/p&gt;
+&lt;p&gt;反代地址：&lt;a class=&#34;link&#34; href=&#34;https://ero.tia-chan.top/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ero.tia-chan.top/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;用户名与密码是群名称的罗马音：nipa&lt;/p&gt;
+&lt;p&gt;群组：&lt;a class=&#34;link&#34; href=&#34;https://t.me/VisualNovelClub&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Telegram: Contact @VisualNovelClub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;说明：屏蔽了注册与登录页面，以防止源服务器ip注册多个账号被怀疑刷分，从而被ban；另外加了cloudflare反代，不用担心安全上的问题www&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;视觉小说中文补丁: &lt;a class=&#34;link&#34; href=&#34;https://drive.tia-chan.top/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://drive.tia-chan.top/&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
